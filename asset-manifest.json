@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Spending-app/static/css/main.ba037b4b.chunk.css",
+    "main.js": "/Spending-app/static/js/main.aff2c27c.chunk.js",
+    "main.js.map": "/Spending-app/static/js/main.aff2c27c.chunk.js.map",
+    "runtime-main.js": "/Spending-app/static/js/runtime-main.4cf41853.js",
+    "runtime-main.js.map": "/Spending-app/static/js/runtime-main.4cf41853.js.map",
+    "static/js/2.5631936f.chunk.js": "/Spending-app/static/js/2.5631936f.chunk.js",
+    "static/js/2.5631936f.chunk.js.map": "/Spending-app/static/js/2.5631936f.chunk.js.map",
+    "index.html": "/Spending-app/index.html",
+    "precache-manifest.54db7d804b65ec77a1b9965ef3c50073.js": "/Spending-app/precache-manifest.54db7d804b65ec77a1b9965ef3c50073.js",
+    "service-worker.js": "/Spending-app/service-worker.js",
+    "static/css/main.ba037b4b.chunk.css.map": "/Spending-app/static/css/main.ba037b4b.chunk.css.map",
+    "static/js/2.5631936f.chunk.js.LICENSE.txt": "/Spending-app/static/js/2.5631936f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf41853.js",
+    "static/js/2.5631936f.chunk.js",
+    "static/css/main.ba037b4b.chunk.css",
+    "static/js/main.aff2c27c.chunk.js"
+  ]
+}
